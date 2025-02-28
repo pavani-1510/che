@@ -1,6 +1,8 @@
 # che
 ### ALM1:  
 
+### 1
+
 1. **Electrode Potential:**  
    Electrode potential is the potential difference developed between an electrode and its electrolyte due to oxidation or reduction reactions. It determines the tendency of an electrode to lose or gain electrons.  
 
@@ -10,6 +12,13 @@
 3. **Electrochemical Series:**  
    The electrochemical series is a list of standard electrode potentials of various electrodes arranged in decreasing order of their reduction potential. It helps in predicting the feasibility of redox reactions and determining the strength of oxidizing and reducing agents.
 
+   ### 2
+
+1. **Prediction of Redox Reactions:**  
+   The electrochemical series helps in predicting whether a redox reaction will occur spontaneously. A species with a higher reduction potential can oxidize a species with a lower reduction potential.  
+
+2. **Determination of Oxidizing and Reducing Strength:**  
+   Elements with high reduction potential act as strong oxidizing agents (e.g., \( \text{F}_2 \)), while elements with low reduction potential act as strong reducing agents (e.g., \( \text{Li} \)).
 ------------------------------------------------
 
 ### ALM2
